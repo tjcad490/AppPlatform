@@ -126,12 +126,58 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Image\icons\16\book.png" />
+    <Content Include="Content\Image\icons\16\cabinet.png" />
+    <Content Include="Content\Image\icons\16\calendar.png" />
+    <Content Include="Content\Image\icons\16\client.png" />
+    <Content Include="Content\Image\icons\16\database.png" />
+    <Content Include="Content\Image\icons\16\download.png" />
+    <Content Include="Content\Image\icons\16\graph.png" />
+    <Content Include="Content\Image\icons\16\home.png" />
+    <Content Include="Content\Image\icons\16\lock.png" />
+    <Content Include="Content\Image\icons\16\mail.png" />
+    <Content Include="Content\Image\icons\16\pdf.png" />
+    <Content Include="Content\Image\icons\16\people.png" />
+    <Content Include="Content\Image\icons\16\piechart.png" />
+    <Content Include="Content\Image\icons\16\search.png" />
+    <Content Include="Content\Image\icons\16\shopping-bag.png" />
+    <Content Include="Content\Image\icons\16\survey.png" />
+    <Content Include="Content\Image\icons\16\tag.png" />
+    <Content Include="Content\Image\icons\16\user.png" />
+    <Content Include="Content\Image\icons\16\wallet.png" />
+    <Content Include="Content\Image\icons\16\web.png" />
+    <Content Include="Content\Image\icons\32\book.png" />
+    <Content Include="Content\Image\icons\32\cabinet.png" />
+    <Content Include="Content\Image\icons\32\calendar.png" />
+    <Content Include="Content\Image\icons\32\client.png" />
+    <Content Include="Content\Image\icons\32\database.png" />
+    <Content Include="Content\Image\icons\32\download.png" />
+    <Content Include="Content\Image\icons\32\graph.png" />
+    <Content Include="Content\Image\icons\32\home.png" />
+    <Content Include="Content\Image\icons\32\lock.png" />
+    <Content Include="Content\Image\icons\32\mail.png" />
+    <Content Include="Content\Image\icons\32\pdf.png" />
+    <Content Include="Content\Image\icons\32\people.png" />
+    <Content Include="Content\Image\icons\32\piechart.png" />
+    <Content Include="Content\Image\icons\32\search.png" />
+    <Content Include="Content\Image\icons\32\shopping-bag.png" />
+    <Content Include="Content\Image\icons\32\survey.png" />
+    <Content Include="Content\Image\icons\32\tag.png" />
+    <Content Include="Content\Image\icons\32\user.png" />
+    <Content Include="Content\Image\icons\32\wallet.png" />
+    <Content Include="Content\Image\icons\32\web.png" />
+    <Content Include="Content\Image\logo.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -186,11 +232,19 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Content\unicorn.login.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
-    <Content Include="Scripts\jquery-1.8.2.js" />
-    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
@@ -215,10 +269,11 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\LoginSuccess.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

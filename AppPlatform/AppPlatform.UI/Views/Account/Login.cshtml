@@ -1,0 +1,45 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>企业应用云平台登录</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/unicorn.login.css" rel="stylesheet" />
+</head>
+<body>
+  <div id="loginbox">            
+            <form id="loginform" class="form-vertical" action="Account/LoginSuccess"  method="post" >
+			<fieldset>
+			<legend>
+                    <img src="~/Content/Image/logo.png" />
+			</legend>
+				<div class="input-group input-group-lg" style="margin:0 40px 10px 40px">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-home"></span></span>
+                    <input name="Enterprise_ID" type="text"  class="form-control" placeholder="企业ID"  required/>
+				</div>
+                <div class="input-group input-group-lg" style="margin:0 40px 10px 40px">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                    <input name="User_ID" type="text" class="form-control" placeholder="用户名" required/>
+                </div>
+                <div class="input-group input-group-lg" style="margin:0 40px 10px 40px"> 
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></span>
+                    <input name="Password" type="password" class="form-control" placeholder="密  码"/>
+                </div>
+				</fieldset>
+                <div class="form-actions">
+                    <div class="btn-toolbar">
+                    <input type="submit" class="btn btn-success" value="登录" />
+                    <input type="button" class="btn btn-primary" value="注册"/>
+                    </div>
+                </div>
+            </form>
+        </div>
+</body>
+</html>
