@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" SymbolicName="UIShell.IoCPlugin" Name="UIShell.IoCPlugin" Version="1.0.0.0" InitializedState="Active" StartLevel="1">
+  <Activator Type="UIShell.IoCPlugin.Activator"/>
+  <Runtime>
+    <Assembly Path="UIShell.IoCPlugin.dll" Share="true"/>
+    <Assembly Path="Autofac.dll" Share="true"/>
+    <Assembly Path="Autofac.Integration.Mvc.dll" Share="true"/>
+  </Runtime>
+</Bundle>

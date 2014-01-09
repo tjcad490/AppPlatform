@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="BlogPlugin" SymbolicName="BlogPlugin" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="BlogPlugin.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\BlogPlugin.dll" Share="false" />
+  </Runtime>
+
+  <Extension Point="MainMenu">
+      <Item url="/Blog/Index?plugin=BlogPlugin" text="Blog" order="4"/>
+      <Item url="/Support/Index?plugin=BlogPlugin" text="Support" order="2"/>
+  </Extension>
+</Bundle>

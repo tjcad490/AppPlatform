@@ -1,0 +1,10 @@
+C:\Users\chen\Downloads\osgi-31535\Asp.net MVC MVC 4 Integration\MvcOSGi.Shell\Plugins\BlogPlugin\bin\BlogPlugin.dll
+C:\Users\chen\Downloads\osgi-31535\Asp.net MVC MVC 4 Integration\MvcOSGi.Shell\Plugins\BlogPlugin\bin\BlogPlugin.pdb
+C:\Users\chen\Downloads\osgi-31535\Asp.net MVC MVC 4 Integration\MvcOSGi.Shell\Plugins\BlogPlugin\obj\Debug\BlogPlugin.csprojResolveAssemblyReference.cache
+C:\Users\chen\Downloads\osgi-31535\Asp.net MVC MVC 4 Integration\MvcOSGi.Shell\Plugins\BlogPlugin\obj\Debug\BlogPlugin.dll
+C:\Users\chen\Downloads\osgi-31535\Asp.net MVC MVC 4 Integration\MvcOSGi.Shell\Plugins\BlogPlugin\obj\Debug\BlogPlugin.pdb
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\BlogPlugin\bin\BlogPlugin.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\BlogPlugin\bin\BlogPlugin.pdb
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\BlogPlugin\obj\Debug\BlogPlugin.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\BlogPlugin\obj\Debug\BlogPlugin.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\BlogPlugin\obj\Debug\BlogPlugin.pdb

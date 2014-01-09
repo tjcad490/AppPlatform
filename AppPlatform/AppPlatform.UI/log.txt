@@ -1,0 +1,65 @@
+Thu, 09 Jan 2014 18:06:58 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   WebSite is starting.
+Thu, 09 Jan 2014 18:06:59 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Add assembly 'UIShell.OSGi, Version=1.2.2.5, Culture=neutral, PublicKeyToken=c86472448ee87261 to top level referenced assemblies.'
+Thu, 09 Jan 2014 18:06:59 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Add assembly 'UIShell.OSGi.MvcCore, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null to top level referenced assemblies.'
+Thu, 09 Jan 2014 18:06:59 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Framework is starting.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Bundle 'UIShell.OSGi.SystemBundle, 1.0.0.0' is starting.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Error|   Failed to load assembly 'UIShell.OSGi.XmlSerializers, Version=1.2.2.5, Culture=neutral, PublicKeyToken=c86472448ee87261'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'Microsoft.GeneratedCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Bundle 'BlogPlugin, 1.0.0.0' is starting.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'BlogPlugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Bundle 'BlogPlugin, 1.0.0.0' is in state 'Active'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Bundle 'UIShell.OSGi.SystemBundle, 1.0.0.0' is in state 'Active'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Add assembly 'BlogPlugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null to top level referenced assemblies.'
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembiles from bundle BlogPlugin
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Framework is started.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'Microsoft.VisualStudio.Web.PageInspector.Runtime, Version=1.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Web.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Data.Services.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:06:59 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.resources, Version=4.0.0.0, Culture=zh-Hans, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:07:00 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'App_global.asax.44mrsyav, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Thu, 09 Jan 2014 18:07:07 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:07:07 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'Microsoft.VisualBasic.Activities.Compiler, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:07 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Runtime.DurableInstancing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:07 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.ServiceModel.Internals, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:07 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:07:07 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'Microsoft.Build.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Data.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Workflow.ComponentModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Workflow.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Workflow.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Xaml.Hosting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Mvc.resources, Version=4.0.0.0, Culture=zh-CN, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:08 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Mvc.resources, Version=4.0.0.0, Culture=zh-CN, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Mvc.resources, Version=4.0.0.0, Culture=zh-CHS, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Mvc.resources, Version=4.0.0.0, Culture=zh-CHS, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |FrameworkThread|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Web.Mvc.resources, Version=4.0.0.0, Culture=zh-Hans, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Web.Mobile, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load controller 'Account' since the plugin name is not specified.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Razor.resources, Version=2.0.0.0, Culture=zh-CN, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Razor.resources, Version=2.0.0.0, Culture=zh-CN, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Razor.resources, Version=2.0.0.0, Culture=zh-CHS, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'System.Web.Razor.resources, Version=2.0.0.0, Culture=zh-CHS, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:09 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Web.Razor.resources, Version=2.0.0.0, Culture=zh-Hans, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:10 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Web.resources, Version=4.0.0.0, Culture=zh-Hans, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:10 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'App_Web_ffu4drnq, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Thu, 09 Jan 2014 18:07:10 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'App_Web_i1wjoldt, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Thu, 09 Jan 2014 18:07:10 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'System.Dynamic, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:16 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load controller 'Account' since the plugin name is not specified.
+Thu, 09 Jan 2014 18:07:17 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'Microsoft.CSharp.resources, Version=4.0.0.0, Culture=zh-Hans, PublicKeyToken=b03f5f7f11d50a3a'.
+Thu, 09 Jan 2014 18:07:17 GMT|   |No Thread Name|UIShell.OSGi.Logger|Debug|   Loaded assembly: 'App_Web_k0j5jfck, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh-CN, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh-CN, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh-CHS, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh-CHS, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh-Hans, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh-Hans, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:18 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load assembly 'WebGrease.resources, Version=1.3.0.0, Culture=zh, PublicKeyToken=31bf3856ad364e35'.
+Thu, 09 Jan 2014 18:07:26 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load controller 'Account' since the plugin name is not specified.
+Thu, 09 Jan 2014 18:07:35 GMT|   |No Thread Name|UIShell.OSGi.Logger|Error|   Failed to load controller 'Account' since the plugin name is not specified.

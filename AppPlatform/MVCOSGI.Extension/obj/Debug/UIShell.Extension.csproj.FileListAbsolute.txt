@@ -1,0 +1,10 @@
+C:\Users\chen\Downloads\osgi-31535\Common\UIShell.Extension\bin\Debug\UIShell.Extension.dll
+C:\Users\chen\Downloads\osgi-31535\Common\UIShell.Extension\bin\Debug\UIShell.Extension.pdb
+C:\Users\chen\Downloads\osgi-31535\Common\UIShell.Extension\obj\Debug\UIShell.Extension.csprojResolveAssemblyReference.cache
+C:\Users\chen\Downloads\osgi-31535\Common\UIShell.Extension\obj\Debug\UIShell.Extension.dll
+C:\Users\chen\Downloads\osgi-31535\Common\UIShell.Extension\obj\Debug\UIShell.Extension.pdb
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.pdb
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.pdb

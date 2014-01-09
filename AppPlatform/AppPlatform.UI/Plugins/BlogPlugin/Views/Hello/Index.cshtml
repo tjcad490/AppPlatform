@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@model List<BlogPlugin.Models.Movie>
+<h2>Index in BlogPlugin</h2>
+
+@Html.ActionLink("Other in BlogPlugin", "Other")
+<br />
+@Html.ActionLink("Hello2 in BlogPlugin", "Index", "Hello2", new { plugin = "BlogPlugin" }, null)
+<br />
+@Html.ActionLink("Hello2 in BlogPlugin", "Index", "Hello2")
+
+<br />
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Rating</td>
+    </tr>
+    @foreach (var movie in Model)
+    {
+        <tr>
+            <td>@movie.Name</td>
+            <td>@movie.Rating</td>
+        </tr>
+    }
+</table>
+<br />
+<b>Click below link to brower movice list which is provided by another plugin>>></b>
+<br />
+@Html.ActionLink("Movice List", "Index", "Hello", new { plugin = "MovicePlugin" }, null)
